@@ -9,7 +9,7 @@
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("images/bg.png");
+  background-image: url("../images/bg.png");
   position: relative;
 }
 
